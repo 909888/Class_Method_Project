@@ -29,7 +29,7 @@ namespace Math_Class_Project
 
             Math mathObject2 = new Math();
             int result3 = mathObject.MathSub(num1, num1, num1);
-            Console.WriteLine(result2);
+            Console.WriteLine(result3);
 
             Console.ReadLine();
 
